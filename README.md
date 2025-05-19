@@ -18,14 +18,6 @@ This system simulates a modern wearable health device dashboard. It enables user
 
 ---
 
-## ⚙️ Tech Stack
-
-| Frontend | Backend | AI/ML | Deployment |
-|----------|---------|-------|------------|
-| HTML, CSS, JS, Bootstrap | Node.js, Express | Python (Flask / FastAPI), Scikit-learn, TensorFlow | Render, GitHub Pages |
-
----
-
 ## 💡 Key Features
 
 - 🔄 Real-time data simulation and visualization  
